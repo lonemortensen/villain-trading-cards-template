@@ -45,4 +45,4 @@ During this project, I practiced:
 
 ## Acknowledgements
 
-**Skillcrush** - With support and guidance from Skillcrush, I coded the Female Supervillain Trading Card app's Python file and used Jinja to place data in the app's HTML file. The app's JavaScript, HTML, and CSS files and their contents were provided by Skillcrush.  
+**Skillcrush** - With support and guidance from Skillcrush, I coded the Female Supervillain Trading Card app's Python file and used Jinja to place data in the app's HTML file. The app's HTML and CSS files and their contents were provided by Skillcrush.  
